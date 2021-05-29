@@ -1,2 +1,2 @@
 # DEEP-LEARNING-PROJECTS
-Here you projects where different neural networks have been used.
+  Here you will find projects where various neural networks and alogorithms have been used.
